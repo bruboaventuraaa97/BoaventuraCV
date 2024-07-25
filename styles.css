@@ -50,8 +50,18 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 1em 0;
+    padding: 0.05em 0;
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+
+header {
+    background-image: url('//C:/Users/f49808c/Documents/BRUNA BOAVENTURA.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 200px 0;
 }
